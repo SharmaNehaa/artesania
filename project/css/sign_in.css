@@ -1,0 +1,17 @@
+#orange{   /* id of the profile pic upload form */
+	margin-left:50px;
+	width:550px;
+	background:#D0D0D0;
+	margin-left:240px;
+	box-shadow:5px 10px 5px #585858;
+}
+
+#orange form{
+	margin-top:40px;
+	padding-left:60px;
+	padding-bottom:20px;
+}
+
+#orange input{
+	text-align:center;
+}

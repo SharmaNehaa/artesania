@@ -1,0 +1,66 @@
+
+#content label{
+	color:#404040;
+	font-size:17px;
+
+}
+
+#content img{
+	width:80px;
+	height:80px;
+}
+
+#orange{   /* id of the profile pic upload form */
+	margin-left:0px;
+	background:#D0D0D0;
+	box-shadow:5px 10px 5px #585858;
+}
+
+#orange form{
+	padding-left:0px;
+}
+
+#orange table{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#orange input{
+	text-align:center;
+}
+
+#current_avatar{
+	padding-top:10px;
+	height:100px;
+	width:auto;
+	margin-left:0px;
+}
+
+#current_img{
+	
+}
+
+#current_avatar form{
+	padding-top:0px;
+}
+
+#avatar tr{
+	text-align:center;
+}
+.para1{
+	margin-top:0px;
+	padding:0px;
+	padding-left:10px;
+	margin-right:40px;
+	width:490px;
+	color:#9900FF;
+	font-size:18px;
+}
+
+#file_form{
+	padding-top:20px;
+	margin-left:150px;
+	padding-bottom:20px;
+}
+
+

@@ -1,0 +1,30 @@
+
+#container {
+	height:500px;
+}
+#main {
+height:500px;
+}
+#content{
+
+	padding-top:30px;
+	width:600px;
+	height:500px;
+	
+}
+
+#pwd_form{
+	width:700px;
+	margin-left:250px;
+	padding-top:50px;
+	height: 800px;
+}
+
+#pwd_form tr{
+	width:500px;
+}
+#pwd_form tr td{
+	text-align:center;
+		width:500px;
+}
+

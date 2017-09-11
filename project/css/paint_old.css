@@ -1,0 +1,52 @@
+div.frame {
+
+	width:500px;
+	height:380px;
+	border:1px solid gray;
+	
+}
+
+#content img {
+	
+	margin:0px;
+	padding:0px;
+}
+
+#current_img{
+	padding:10px;
+}
+
+.frame {
+	
+}
+div.picture_areas {
+	width:50px;
+	height:20px;
+	display:inline;
+}
+
+#area1 img {
+	width:248px;
+	height:198px;
+	float:left;
+	border:1px white solid;
+}
+#area2 img {
+	width:248px;
+	height:198px;
+	float:left;
+	overflow:hidden;
+	border:1px white solid;
+}
+#area3 img {
+	width:498px;
+	height:178px;
+	border:1px white solid;
+}
+
+div.frame input {
+	width:100px;
+	display:inline;
+}
+
+/*div.picture_areas#area1*/

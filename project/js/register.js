@@ -1,0 +1,20 @@
+$(document).ready(function(){
+  $("#area1").click(function(){
+    $("#aboutForm").show();
+    $("#profileForm").hide();
+    $("#interestForm").hide();
+    $("#paintForm").hide();
+  });
+  $("#area2").click(function(){
+     $("#interestForm").show();
+     $("#profileForm").hide();
+     $("#aboutForm").hide();
+    $("#paintForm").hide();
+  });
+  $("#area3").click(function(){
+    $("#profileForm").show();
+    $("#aboutForm").hide();
+    $("#interestForm").hide();
+	$("#paintForm").hide();
+  });
+});

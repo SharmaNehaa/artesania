@@ -1,0 +1,59 @@
+#question {
+	padding-top:30px;
+	height:60px;	
+}
+#ques_head {
+	font-size:20px;
+	font-weight:bold;
+	float:left;
+	padding-left:10px;
+	padding-right:15px;
+}
+#ques_content {
+	float:left;
+	font-size:20px;
+}
+#add_reply {
+	float:left;
+	padding-top:20px;
+	height:150px;
+}
+#add_reply embed {
+	height:75px;
+	width:75px;
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+}
+#content embed {
+	height:75px;
+	width:75px;
+	padding-right:10px;
+}
+#text_area {
+	float:left;
+}
+
+#submit_button {
+	float:right;
+}
+.user_comment {
+	float:left;	
+	padding:10px;
+	height:200px;
+}
+
+.user_comment embed {
+	height:75px;
+	width:75px;
+	padding-right:10px;
+	float:left;
+	
+}
+.text_dabba {
+	float:left;
+	width:600px;
+}
+.row1c1, .row1c2, .row2c1 {
+	float:left;
+}

@@ -1,0 +1,27 @@
+div.box {
+	margin-left:300px;
+	width:500px;
+	height:550px;
+	margin-top:10px;
+	margin-bottom:20px;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px gray;
+	box-shadow:5px 10px 5px #331F29;
+	background:#D5A197;
+
+}
+
+
+div.box form table tr td {
+	padding-right:3px;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+
+#heading{
+	padding-top:10px;
+	font:sans-serif;
+	font-size:20px;
+	color:#424742;
+}

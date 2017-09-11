@@ -1,0 +1,19 @@
+div.box {
+	margin-left:300px;
+	width:500px;
+	height:550px;
+	padding-top:10px;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px gray;
+	box-shadow:5px 10px 5px #331F29;
+	background:#EBA28C;
+
+}
+
+
+div.box form table tr td {
+	padding-right:3px;
+	padding-top:2px;
+	padding-bottom:2px;
+}

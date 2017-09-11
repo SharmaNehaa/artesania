@@ -1,0 +1,30 @@
+#content{
+	margin-top:0px;
+	margin-bottom:5px;
+	margin-left:0px;
+}
+
+#topic_table {
+	background:#ECECB3;
+	width:inherit;
+}
+
+#topic_table td{
+	min-width:110px;
+	text-align:center;	
+}
+
+#aa{
+	padding-left:0px;
+	font-weight:bold;
+	background:tan;
+}
+
+#topic_table tr td button{
+	width:120px;
+	height:50px;
+}
+
+#query{
+	margin-top:10px;
+}

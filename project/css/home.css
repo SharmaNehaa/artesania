@@ -1,0 +1,26 @@
+#table_home td{
+	height:260px;
+}
+#image{
+position:relative;
+top:10px;
+left:10px;
+
+}
+
+#hover_div {
+	top:-250px;
+	position:relative;
+	width:205px;
+	height:200px;
+	padding:25px 20px 25px 20px;
+	z-index:-1000;
+}
+
+#artist_time img {
+	width:50%;
+	height:50%;
+} 
+
+
+

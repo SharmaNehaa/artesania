@@ -1,0 +1,36 @@
+#content h3{
+	padding-top:20px;
+	font-size:20px;
+	color:rgb(106, 106, 143);
+}
+
+#orange{
+	text-align:center;
+}
+
+#orange tr td a{
+	text-decoration:none;
+	color:#808080;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#orange tr td a:hover{
+	color:#282828;
+}
+#orange{   /* id of the profile pic upload form */
+	width:550px;
+	background:#D0D0D0;
+	margin-left:340px;
+	box-shadow:5px 10px 5px #585858;
+}
+
+#orange form{
+	margin-top:40px;
+	padding-left:60px;
+	padding-bottom:20px;
+}
+
+#orange input{
+	text-align:center;
+}

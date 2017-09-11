@@ -1,0 +1,104 @@
+#content {
+	width: 1170px;
+	margin-left:10px;
+	background:rgb(32, 158, 118);	
+	min-height:400px;	
+}
+td a {
+	font-family:sans-serif;
+	font-size:18px;
+}
+.line_block {
+	font-size:22px;
+	color:rgb(0,160,96);
+}
+
+#inner_content {
+	min-height:400px;
+	height:auto;
+}
+#left_panel {
+	background:#ECECB3;
+	width: 180px;
+	float:left;
+	padding: 11px;
+	border:2px;
+	border-style:inset;
+	border-right:none;
+	border-color:rgb(196, 165, 165);
+	
+}
+
+#left_panel a{
+	color:rgb(211,145,5);
+	text-transform:uppercase;
+	text-decoration:none;
+}
+
+#left_panel lh{
+	font-weight:bold;
+	display:block;
+}
+
+#inner_content_area {
+	margin-left:200px;
+	background:ivory;
+	width:970px;
+	min-height:354px;	
+	border:2px;
+	border-style:inset;
+	border-color:rgb(196, 165, 165);
+	height:auto;
+	
+}
+#inner_content_area .line_block{
+
+}
+a {
+	text-decoration:none;
+	color:black;
+}
+.white_area {
+ 	color:white;
+ }
+ 
+#upvotes_head {
+	width:87px;
+}
+#topic_head {
+	width:699px;
+}
+#askedby_head {
+	width:101px;
+}
+table tr th {
+	padding-top:20px;
+	padding-bottom:20px;
+}
+table tr td {
+	font-size:17px;
+	padding-right:20px;
+	padding-left:25px;
+	padding-bottom:10px;
+	font-family:"Trebuchet MS",Helvetica,sans-serif;
+	
+}
+#add_ques {
+	padding-top:30px;
+}
+#add_ques embed {
+	width:55px;
+	height:55px;	
+	float:left;
+}
+
+#text_area {
+	margin-left:70px;
+}
+
+#submit_button {
+	float:right;
+	margin-right:100px;
+	height:30px;
+}
+

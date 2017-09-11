@@ -1,0 +1,8 @@
+#topic_table{
+	padding-top:8px;
+	margin-left:10px;
+}
+
+#topic_table tr td{
+	min-width:50px;
+}

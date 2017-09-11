@@ -1,0 +1,43 @@
+	<option value="abstract">Abstract</option>
+									<option value="portrait">Portrait</option>
+									<option value="people">People</option>
+									<option value="still life">Still Life</option>
+									<option value="sport">Sport</option>
+									<option value="nature">Nature</option></optgroup>
+
+									
+									<option value="oil">Oil Painting</option>
+									<option value="acrylic">Acrylic Painting</option>
+									<option value="pastel">Pastel</option>
+									<option value="watercolor">Water Color</option>
+									<option value="ink">Ink Painting</option>
+									<option value="hot wax">Hot Wax</option></optgroup>
+
+									
+									<option value="north indian">North Indian</option>
+									<option value="south indian">South Indian</option>
+									<option value="chinese">Chinese</option>
+									<option value="italian">Italian</option>
+									<option value="magolian">Mangolian</option></optgroup>
+
+									
+									<option value="documentry">Documentry</option>
+									<option value="promotional video">Promotional Video</option></optgroup>
+
+									<optgroup label="Literature">
+									<option value="poem">Poem</option>
+									<option value="article">Article</option>
+									<option value="essay">Essay</option>
+									<option value="short story">Short Story</option></optgroup>
+
+									<optgroup label="Fashion">
+									<option value="shoes">Shoes</option>
+									<option value="clothing">Clothing</option>
+									<option value="accessories">Accessories</option></optgroup>
+
+									<optgroup label="Artisan Craft">
+									<option value="basketry and weaving">Basketry and Weaving</option>
+									<option value="ceramics">Ceramics</option>
+									<option value="pottery and clay">Pottery and Clay</option>
+									<option value="cullinary arts">Cullinary Arts</option>
+									<option value="miscellaneous">Miscellaneous</option></optgroup>

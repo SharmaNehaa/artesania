@@ -1,0 +1,92 @@
+#content{
+	width:1180px;
+
+}
+#content p{
+color:rgb(253, 114, 114);
+}
+#option{
+	width:1100px;
+	height:250px;
+	padding-left:50px;
+	opacity:0.8;
+	border-radius:15px;
+
+}
+
+#content img{
+	height:200px;
+	width:auto;
+}
+
+
+.btn_view{
+border:1px solid rgba(235, 153, 199, 0); -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;font-size:12px;font-family:arial, helvetica, sans-serif; padding: 10px 10px 10px 10px; text-decoration:none; display:inline-block;text-shadow: -1px -1px 0 rgba(0,0,0,0.3);font-weight:900; color: #FFFFFF;
+ background-color: #f7e3e3; background-image: -webkit-gradient(linear, left top, left bottom, from(#f7e3e3), to(#ffd7d7));
+ background-image: -webkit-linear-gradient(top, #f7e3e3, #ffd7d7);
+ background-image: -moz-linear-gradient(top, #f7e3e3, #ffd7d7);
+ background-image: -ms-linear-gradient(top, #f7e3e3, #ffd7d7);
+ background-image: -o-linear-gradient(top, #f7e3e3, #ffd7d7);
+ background-image:linear-gradient(to bottom, #ecbbbb, #ffa4a4);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#f7e3e3, endColorstr=#ffd7d7);
+ width:150px;
+ min-height:30px;
+ height:50px;
+ }
+
+.btn_view:hover{
+ border:1px solid #A6AFE0;
+ background-color: #ecbbbb; background-image: -webkit-gradient(linear, left top, left bottom, from(#ecbbbb), to(#ffa4a4));
+ background-image: -webkit-linear-gradient(top, #ecbbbb, #ffa4a4);
+ background-image: -moz-linear-gradient(top, #ecbbbb, #ffa4a4);
+ background-image: -ms-linear-gradient(top, #ecbbbb, #ffa4a4);
+ background-image: -o-linear-gradient(top, #ecbbbb, #ffa4a4);
+
+ background-image:  linear-gradient(to bottom, #559DC5, rgba(77, 207, 240, 0.88));filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ecbbbb, endColorstr=#ffa4a4);
+}
+#b1{
+margin-top:50px;
+	margin-left:90px;
+}
+#b1,#b2,#b3,#b4{
+	margin-right:30px;
+}
+
+#b2{
+margin-top:50px;
+margin-left:90px;
+}
+#b3{
+margin-top:-10px;
+margin-left:120px;
+}
+#b4{
+margin-top:50px;
+margin-left:50px;
+}
+#leaf{
+	width:150px;
+	height:150px;
+	color:rgb(54, 46, 46);
+	font-size:20px;
+	text-decoration:none;
+	margin-left:20px;
+}
+
+.middle{
+	display:inline;
+	margin-left: 100px;	
+	
+}
+
+.para1{
+	text-align:center;
+	font-size:35px;
+	font-weight:bold;
+	margin-left:30px;
+	color:#000000;
+	display:block;
+	
+}
+
+
+

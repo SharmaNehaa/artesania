@@ -1,0 +1,35 @@
+#table_report{
+	margin-left:150px;
+	width:900px;
+	text-align:center;
+	cell-padding:0;
+	border:1px solid #339900;
+}
+
+#table_report td{
+	padding:0;
+}
+
+#table_report tr a{
+	text-decoration:none;
+	color:gray;
+	font-size:15px;
+	font:sans-serif;
+	font-weight:bold;
+}
+
+#table_report tr a:hover{
+	color:#282828;
+}
+
+#id0{
+	background-color:#E0D2E0;
+}
+
+#no_img{
+	text-align:center;
+	font-size:20px;
+	font:sans-serif;
+	color:rgb(124, 124, 150);
+	padding-top:30px;
+}

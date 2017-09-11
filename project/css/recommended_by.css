@@ -1,0 +1,35 @@
+#rc{
+	margin-left:280px;
+	border:1px solid #484848;
+	box-shadow: 10px 10px 5px #888888;
+	
+}
+
+#rc tr td{
+	width:200px;
+}
+
+#rc tr {
+}
+
+#rc tr td a{
+	margin-left:15px;
+	font-size:20px;
+	color:#6600CC;
+}
+
+#rc tr{
+	height:50px;
+}
+#rc tr td{
+	font-size:20px;
+	color:#484848;
+	text-align:center;
+
+}
+
+#content embed{
+	height:50px;
+	width:50px;
+	margin-left:120px;
+}
